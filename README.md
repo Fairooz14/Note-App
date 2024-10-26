@@ -41,7 +41,7 @@ The key folders and files in this project include:
 - lib/: Contains the main code for the app.
     - main.dart: Entry point of the application.
     - models/: Contains the data model for notes.
-    - db_helper/: Contains the SQLite database helper functions.
+    - database/: Contains the SQLite database helper functions.
 
 ## Usage 📋
 - Add a Note: Press the "+" button on the home screen, enter your note, and save.
