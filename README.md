@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/01ad3bbc-9a84-48fb-a5fd-a958104f1894
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/note-app.git
+   https://github.com/Fairooz14/Note-App.git
    cd note-app
 
 2. **Install dependencies**:
