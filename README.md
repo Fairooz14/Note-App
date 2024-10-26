@@ -34,6 +34,8 @@ https://github.com/user-attachments/assets/01ad3bbc-9a84-48fb-a5fd-a958104f1894
 This project relies on the following packages:
 - sqflite: For SQLite database management.
 - path_provider: For accessing the app's file storage.
+- GetX: For state management, navigation, and reactive programming.
+- awesome_dialog: For alart and dialog boxes.
 
 ## Folder Structure 📂
 
